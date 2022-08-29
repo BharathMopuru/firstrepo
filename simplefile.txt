@@ -1,5 +1,5 @@
-01 line Every 
+01 line All 
 02 line Good 
 03 line Man 
 04 line Deserves 
-05 line Food 
+05 line Favor 
